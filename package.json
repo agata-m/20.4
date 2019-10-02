@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
 	"scripts": {
 		"start": "webpack-dev-server --hot --env development"
@@ -27,3 +28,6 @@
 		"uuid": "^3.3.3"
 	}
 }
+=======
+something
+>>>>>>> ce70a97b9b2df8eb213c9ad6a8d7bc95b90ee901

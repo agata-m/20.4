@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React from 'react';
 import style from './Title.css';
 
@@ -18,3 +19,6 @@ class Title extends React.Component {
 }
 
 export default Title;
+=======
+const Title = props => <h1>{props.title}</h1>
+>>>>>>> ce70a97b9b2df8eb213c9ad6a8d7bc95b90ee901
