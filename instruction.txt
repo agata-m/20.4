@@ -1,9 +1,0 @@
-// npm init -y
-// install webpack, babel
-// npm install --save-dev react-dom react
-// npm install --save uuid
-// npm install --save-dev style-loader css-loader
-// dopisz start do skyptow
-// npm start - check if it works
-
-// dopisz komponent tytulu - ma wyswietlac tytul apki + liczba zadan, ktore zostaly dodane do listy
