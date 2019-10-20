@@ -1,7 +1,7 @@
 {
 	"scripts": {
-		"start": "webpack-dev-server --env development",
-		"build": "webpack-dev-server --env production"
+		"start": "webpack-dev-server --hot --env development",
+		"build": "webpack --env production"
 	},
 	"devDependencies": {
 		"@babel/preset-env": "^7.6.3",
